@@ -5,6 +5,6 @@
     <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-    <h1>Project Setup </h1>
+    <h1 style='color:blue'>Project Setup </h1>
 </body>
 </html>
